@@ -2,7 +2,11 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "hello",
+      "dataSubjectId" : "HK:1234567",
+      "dataSubjectIdType" : "HKID",
+      "applicationRefId" : "AB12C-20230101-001",
+      "data": "For CEDG testing API"
     }
   ],
   "profile": {
